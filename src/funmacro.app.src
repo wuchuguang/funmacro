@@ -1,0 +1,12 @@
+{application, funmacro,
+ [
+  {description, ""},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {included_applications, []},
+  {env, []}
+ ]}.
